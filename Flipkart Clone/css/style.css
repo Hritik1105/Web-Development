@@ -1,0 +1,67 @@
+*{
+      font-family: "Poppins", sans-serif;
+      font-weight: 300;
+      /* overflow: hidden; */
+      /* background-color:whitesmoke; */
+}
+
+
+.navbar{
+    background-color:  #2752dd;
+    font-size: 20px;
+}
+.navbar img{
+    margin-left: 50px;
+}
+.navbar input{
+    margin-left: 20px;
+    width: 700px;
+
+    background-color: white !important;
+
+}
+.navbar input::placeholder{
+    font-size: 18.5px;
+    padding-left: 15px;
+}
+.d-flex input{
+        background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl1OXPLr6KwFJR3zwGBDgvi5n6A4dUUa3Thw&s') no-repeat 8px center;
+    background-size: 23px; 
+    padding-left: 30px;
+    margin-left: 30px;
+    
+}
+.nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown-item span{
+    color: #2752dd;
+    font-weight: 600;
+}
+.nav-item{
+    margin-left: 18px;
+    font-size: 18px;
+}
+
+.dropdown{
+    margin-left: 22px;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+}
+.menu .dropdown-menu {
+    right: 0;
+    left: auto;
+}
+.my-row{
+    height: 135px;
+    overflow-y: hidden;
+    overflow-y: hidden;
+}
+
+.col p{
+    font-size: 14px;
+    font-weight: 500;
+}
