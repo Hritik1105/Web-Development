@@ -1,0 +1,10 @@
+*{
+      font-family: "Rubik", sans-serif;
+}
+
+.text-justify{
+      text-align: justify;
+}
+.text{
+      display: inline-block;
+}
